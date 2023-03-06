@@ -5,7 +5,7 @@
 He received MSc degree in Material Science and Engineering in 2019 at Tsinghua University. 
 He is currently a Ph.D. student in Electrical Engineering at the University of Virginia. 
 He has been working on the design, fabrication, measurement and analysis of electronic devices and accelerator chips since his Master's journey. 
-He published more than 10 journal/conference scientific papers in fields of Material Science and Electrical Engineering with a total citation of >450 and hold a patent so far. 
+He published more than 10 journal/conference scientific papers in fields of Material Science and Electrical Engineering with a total citation of >450 and hold a patent so far. His research is ultra-low-power FPGA physical design and SRAM design.
 His dream is to invent a truly high performance and low power chip.
 
 
